@@ -1,1 +1,1 @@
-sh <(curl https://autoinstall.plesk.com/one-click-installer || wget -O - https://autoinstall.plesk.com/one-click-installer)
+wget https://autoinstall.plesk.com/plesk-installer && chmod +x plesk-installer
