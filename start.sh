@@ -1,1 +1,1 @@
-chmod +x plesk-installer && ./plesk-installer --web-interface
+chmod +x one-click-installer && ./plesk-installer --web-interface
