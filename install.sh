@@ -1,1 +1,1 @@
-pip install request && wget https://autoinstall.plesk.com/plesk-installer
+pip install request && sh <(curl https://autoinstall.plesk.com/one-click-installer || wget -O - https://autoinstall.plesk.com/one-click-installer)
